@@ -8,3 +8,4 @@ Testy w tym repozytorium :
 - ananana
 - jkjk
 - akkkakka
+- klasa
