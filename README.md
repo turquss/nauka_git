@@ -5,4 +5,6 @@ Testy w tym repozytorium :
 - API smoke test dla logowania i wylogowania
 - x
 - y
-ananana
+- ananana
+- jkjk
+- akkkakka
